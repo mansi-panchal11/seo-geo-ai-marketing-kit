@@ -1,0 +1,2 @@
+run_id,date,engine,prompt_id,topic,stage,brands_mentioned,sources_cited,sentiment,notes
+baseline-2026-01,2026-01-12,perplexity,P01,commercial EV charging,awareness,BrightGrid;NorthWind,evguide.example;brightgrid.example,positive,Example row. Delete before use.

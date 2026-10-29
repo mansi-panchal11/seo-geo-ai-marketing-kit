@@ -1,0 +1,13 @@
+prompt_id,topic,persona,funnel_stage,intent,prompt_text,priority,version
+P01,commercial EV charging,Facility manager,awareness,informational,What should a business consider before installing EV chargers at its sites?,high,v1
+P02,commercial EV charging,Facility manager,awareness,informational,How do commercial EV charging stations work with a building's electrical system?,medium,v1
+P03,commercial EV charging,Facility manager,consideration,comparative,What are the main differences between AC and DC chargers for a company car park?,high,v1
+P04,commercial EV charging,Procurement lead,consideration,comparative,Which commercial EV charging providers offer software to manage many chargers?,high,v1
+P05,commercial EV charging,Procurement lead,decision,transactional,What should I ask a supplier before signing a contract for 20 EV chargers?,high,v1
+P06,commercial EV charging,Procurement lead,decision,navigational,BrightGrid commercial charging offer and installation process,medium,v1
+P07,fleet electrification costs,Fleet manager,awareness,informational,How much does it cost to electrify a delivery fleet of 50 vehicles?,high,v1
+P08,fleet electrification costs,Fleet manager,awareness,informational,What hidden costs come with switching a company fleet to electric vehicles?,medium,v1
+P09,fleet electrification costs,Fleet manager,consideration,comparative,Is it cheaper to lease or buy electric vans for a small business fleet?,high,v1
+P10,fleet electrification costs,Finance director,consideration,comparative,How do I compare the total cost of ownership of electric and diesel vans?,high,v1
+P11,fleet electrification costs,Finance director,decision,transactional,Which companies can help plan and finance a fleet electrification project?,high,v1
+P12,fleet electrification costs,Finance director,decision,navigational,BrightGrid fleet electrification advisory service,medium,v1
